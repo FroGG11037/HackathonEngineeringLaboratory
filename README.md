@@ -13,6 +13,9 @@
 ## 🧪 Результат
 
 Проект остаётся в статусе полурабочего прототипа. Дальнейшая доработка не планируется, код предоставлен как есть для архива и портфолио.
+**Прототип:**
 <img width="1927" height="2560" alt="prototype" src="https://github.com/user-attachments/assets/e18b3ce8-aee2-4e41-b3ab-10de323bc8ec" />
+**Программа для управления:**
 <img width="1644" height="662" alt="program" src="https://github.com/user-attachments/assets/3836e9e3-394e-414a-8112-a29229cb303e" />
+**Плата:**
 <img width="2131" height="2560" alt="board" src="https://github.com/user-attachments/assets/22ac548e-ac3f-492f-82a6-04b04e67c398" />
